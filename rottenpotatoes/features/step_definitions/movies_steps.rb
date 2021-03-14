@@ -23,3 +23,9 @@ Then /I should see all the movies/ do
     step %{I should see "#{movie.title}"}
   end
 end
+
+
+Then /^the director of "(.*)" should be "(.*)"$/ do |x1, x2|
+   director = Movie.where(["title = :u", { u: x1 }]).first.director
+   expect(director).to match x2
+end
