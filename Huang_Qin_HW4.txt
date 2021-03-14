@@ -1,0 +1,3 @@
+https://github.com/QinHuang/hw-acceptance-unit-test-cycle
+https://github.com/QinHuang/hw-acceptance-unit-test-cycle/tree/master/rottenpotatoes/cucumber.log
+https://github.com/QinHuang/hw-acceptance-unit-test-cycle/tree/master/rottenpotatoes/rspec.log
