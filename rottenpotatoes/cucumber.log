@@ -126,7 +126,7 @@ Feature: display list of movies sorted by different criteria
 
 7 scenarios (4 undefined, 3 passed)
 60 steps (31 skipped, 4 undefined, 25 passed)
-0m0.445s
+0m0.651s
 
 You can implement step definitions for undefined steps with these snippets:
 
@@ -134,4 +134,4 @@ Then(/^(\d+) seed movies should exist$/) do |arg1|
   pending # Write code here that turns the phrase above into concrete actions
 end
 
-Coverage report generated for Cucumber Features, RSpec to /home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 33 / 41 LOC (80.49%) covered.
+Coverage report generated for Cucumber Features, RSpec to /home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 37 / 41 LOC (90.24%) covered.

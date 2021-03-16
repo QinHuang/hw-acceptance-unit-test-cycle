@@ -1,7 +1,6 @@
-/home/ec2-user/.rvm/rubies/ruby-2.6.6/bin/ruby -I/home/ec2-user/.rvm/gems/ruby-2.6.6/gems/rspec-core-3.7.1/lib:/home/ec2-user/.rvm/gems/ruby-2.6.6/gems/rspec-support-3.7.1/lib /home/ec2-user/.rvm/gems/ruby-2.6.6/gems/rspec-core-3.7.1/exe/rspec --pattern spec/\*\*\{,/\*/\*\*\}/\*_spec.rb
-No examples found.
+.......
 
+Finished in 0.62087 seconds (files took 2.47 seconds to load)
+7 examples, 0 failures
 
-Finished in 0.00026 seconds (files took 0.09189 seconds to load)
-0 examples, 0 failures
-
+Coverage report generated for RSpec to /home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 35 / 41 LOC (85.37%) covered.
